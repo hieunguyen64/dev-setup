@@ -9,5 +9,6 @@ This will contain all the developer setup for cross-platform desktop ( Windows, 
 - [PopOS 20.04 (Beta)](POP_OS_20.04.md)
 - [MacOS](MACOS.md)
 - [Windows](WINDOWS.md)
+- [Windows 10](Windows10.md)
 
 IF YOU WANT TO MAINTAIN THIS REPOS. PLEASE MAKE A PULL REQUEST TO ME.
