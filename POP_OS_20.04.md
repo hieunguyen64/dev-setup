@@ -1,3 +1,4 @@
+Download link iso : https://iso.pop-os.org/20.04/amd64/intel/10/pop-os_20.04_amd64_intel_10.iso
 # POP_OS (UBUNTU Distro)
 
 ## Use this document at your own risk. =))
